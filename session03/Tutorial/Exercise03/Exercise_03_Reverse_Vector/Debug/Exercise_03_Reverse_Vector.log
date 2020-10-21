@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture3\Tutorial\Exercise03\New folder\Exercise_03_Reverse_Vector\Exercise_03_Reverse_Vector\main.cpp(27,16): error C2563: mismatch in formal parameter list
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture3\Tutorial\Exercise03\New folder\Exercise_03_Reverse_Vector\Exercise_03_Reverse_Vector\main.cpp(27,16): error C2298: missing call to bound pointer to member function
