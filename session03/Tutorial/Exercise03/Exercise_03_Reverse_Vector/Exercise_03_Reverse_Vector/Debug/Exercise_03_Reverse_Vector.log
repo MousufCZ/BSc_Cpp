@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture3\Tutorial\Exercise03\Exercise_03_Reverse_Vector\Exercise_03_Reverse_Vector\main.cpp(39,55): error C2664: 'void reverse(std::vector<double,std::allocator<double>> &)': cannot convert argument 1 from 'const std::vector<double,std::allocator<double>>' to 'std::vector<double,std::allocator<double>> &'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture3\Tutorial\Exercise03\Exercise_03_Reverse_Vector\Exercise_03_Reverse_Vector\main.cpp(39,49): message : Conversion loses qualifiers
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture3\Tutorial\Exercise03\Exercise_03_Reverse_Vector\Exercise_03_Reverse_Vector\main.cpp(23,6): message : see declaration of 'reverse'
