@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Part_1_introducing_classes\Lecture_6_Part_1_introducing_classes\Lecture_6_Part_1_introducing_classes\main.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  Lecture_6_Part_1_introducing_classes.vcxproj -> C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Part_1_introducing_classes\Lecture_6_Part_1_introducing_classes\Debug\Lecture_6_Part_1_introducing_classes.exe

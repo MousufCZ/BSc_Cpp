@@ -1,0 +1,7 @@
+﻿  cont_disc_q3.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture9\Cpp_Lecture_9_abstract_class\Cpp_Lecture_9_abstract_class\cont_disc_q3.cpp(9,38): error C2511: 'cont_disc_q3::cont_disc_q3(double)': overloaded member function not found in 'cont_disc_q3'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture9\Cpp_Lecture_9_abstract_class\Cpp_Lecture_9_abstract_class\cont_disc_q3.h(6): message : see declaration of 'cont_disc_q3'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture9\Cpp_Lecture_9_abstract_class\Cpp_Lecture_9_abstract_class\cont_disc_q3.cpp(10,62): error C2065: 'n': undeclared identifier
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture9\Cpp_Lecture_9_abstract_class\Cpp_Lecture_9_abstract_class\cont_disc_q3.cpp(11,37): error C2550: 'cont_disc_q3::{ctor}': constructor initializer lists are only allowed on constructor definitions
+  main.cpp
+  Generating Code...

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture5\Tutorial\Exercise_06\Exercise_06_Count_Longer\Exercise_06_Count_Longer\main.cpp(26,41): warning C4018: '>': signed/unsigned mismatch
+  Exercise_06_Count_Longer.vcxproj -> C:\Users\mousu\source\repos\Cpp\Cpp_Lecture5\Tutorial\Exercise_06\Exercise_06_Count_Longer\Debug\Exercise_06_Count_Longer.exe

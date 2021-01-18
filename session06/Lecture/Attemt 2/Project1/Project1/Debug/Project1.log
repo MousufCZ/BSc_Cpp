@@ -1,0 +1,12 @@
+﻿  stats.cpp
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(4,22): error C2065: 'n': undeclared identifier
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(4,20): error C2789: 'middle': an object of const-qualified type must be initialized
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(4): message : see declaration of 'middle'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(5,2): error C2059: syntax error: 'if'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(7,2): error C2059: syntax error: 'else'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(9,1): error C2059: syntax error: '}'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(9,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(12,41): error C2143: syntax error: missing ';' before '{'
+C:\Users\mousu\source\repos\Cpp\Cpp_Lecture6\Lecture\Attemt 2\Project1\Project1\stats.cpp(12,41): error C2447: '{': missing function header (old-style formal list?)
